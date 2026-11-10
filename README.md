@@ -10,6 +10,12 @@ Surfer blocks ads and trackers, stops pop-ups and tap-ad redirects, and keeps yo
 
 Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store, then open the link above on your iPhone or iPad. Surfer needs iOS 17 or later.
 
+## Screenshots
+
+| The menu | Settings | Library |
+|---|---|---|
+| ![The menu, with the Shield switch for the current site](screenshots/3-menu.png) | ![Settings](screenshots/6-settings.png) | ![The library, in dark mode](screenshots/5-library.png) |
+
 ## Features
 
 **Shield**

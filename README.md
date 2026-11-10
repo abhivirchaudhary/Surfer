@@ -51,7 +51,7 @@ Read the full [privacy policy](privacy-policy.md).
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/abhivirchaudhary/surfer-app/issues).
+Found a bug or have an idea? [Open an issue](https://github.com/abhivirchaudhary/Surfer/issues).
 
 ---
 

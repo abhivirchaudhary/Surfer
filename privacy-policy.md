@@ -36,4 +36,4 @@ If this policy changes, I will change the date at the top.
 
 ## Contact
 
-Abhivir. Open an issue at <https://github.com/abhivirchaudhary/surfer-app/issues>.
+Abhivir. Open an issue at <https://github.com/abhivirchaudhary/Surfer/issues>.

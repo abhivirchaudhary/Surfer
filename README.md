@@ -12,9 +12,13 @@ Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the
 
 ## Screenshots
 
-| The menu | Settings | Library |
-|---|---|---|
-| ![The menu, with the Shield switch for the current site](screenshots/3-menu.png) | ![Settings](screenshots/6-settings.png) | ![The library, in dark mode](screenshots/5-library.png) |
+| The menu | Page Tools |
+|---|---|
+| ![The menu, with the Shield switch for the current site](screenshots/3-menu.png) | ![Page Tools: Reader, Picture in Picture, Save as PDF, Translate and Summarize](screenshots/7-pagetools.png) |
+
+| Settings | Library |
+|---|---|
+| ![Settings](screenshots/6-settings.png) | ![The library, in dark mode](screenshots/5-library.png) |
 
 ## Features
 
